@@ -71,12 +71,6 @@ This project is a collection of Arduino and ESP32 scripts designed to automate a
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
 ## 👨‍💻 Authors
 
 - SHASHVATH R
